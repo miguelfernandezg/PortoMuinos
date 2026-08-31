@@ -1,0 +1,6 @@
+# Configuración local de Porto-Muiños.
+# Copiar este archivo como `local.properties` y sustituir los valores.
+# No publicar el archivo `local.properties` real.
+
+SUPABASE_URL=https://TU_PROJECT_REF.supabase.co
+SUPABASE_KEY=TU_SUPABASE_ANON_KEY

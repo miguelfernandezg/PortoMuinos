@@ -1,0 +1,25 @@
+# Android / IDE
+*.iml
+.gradle/
+.idea/
+build/
+**/build/
+.kotlin/
+
+# Local configuration / secrets
+local.properties
+.env
+.env.*
+*.jks
+*.keystore
+
+# Misc
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Temporary files created for review
+estructura_proyecto.txt
+git_status.txt
+git_ignored.txt
