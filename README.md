@@ -1,4 +1,4 @@
-# PortoMuinos App
+# Porto-Muíños App
 
 Aplicación móvil Android desarrollada como Proyecto Fin de Ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM).
 
