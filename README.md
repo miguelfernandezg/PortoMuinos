@@ -1,8 +1,10 @@
 # Porto-Muíños App
 
-Aplicación móvil Android desarrollada como Proyecto Fin de Ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM).
+Aplicación Android desarrollada como Proyecto Fin de Ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM) para Porto-Muíños, orientada al descubrimiento, uso culinario y compra de productos relacionados con las algas y las verduras del mar.
 
-El proyecto nace a partir de un reto propuesto por **Porto-Muiños** dentro del programa InnovaTech FP y evoluciona hacia una implementación Android funcional orientada a facilitar el descubrimiento, uso culinario y compra de productos relacionados con las algas y las verduras del mar.
+**Kotlin · Jetpack Compose · MVVM · Supabase · PostgreSQL**
+
+El proyecto nace a partir de un reto propuesto por Porto-Muíños dentro del programa InnovaTech FP y evoluciona posteriormente hacia una implementación individual, funcional y conectada a un backend real.
 
 ## Capturas
 
