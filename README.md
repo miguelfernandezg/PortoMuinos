@@ -4,6 +4,39 @@ Aplicación móvil Android desarrollada como Proyecto Fin de Ciclo de Desarrollo
 
 El proyecto nace a partir de un reto propuesto por **Porto-Muiños** dentro del programa InnovaTech FP y evoluciona hacia una implementación Android funcional orientada a facilitar el descubrimiento, uso culinario y compra de productos relacionados con las algas y las verduras del mar.
 
+## Capturas
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="docs/screenshots/home.jpeg" width="250"><br>
+      <sub>Inicio</sub>
+    </td>
+    <td align="center">
+      <img src="docs/screenshots/products.jpeg" width="250"><br>
+      <sub>Productos</sub>
+    </td>
+    <td align="center">
+      <img src="docs/screenshots/recipes.jpeg" width="250"><br>
+      <sub>Recetas</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/screenshots/product-detail.jpeg" width="250"><br>
+      <sub>Detalle de producto</sub>
+    </td>
+    <td align="center">
+      <img src="docs/screenshots/qr-scanner.jpeg" width="250"><br>
+      <sub>Escáner QR</sub>
+    </td>
+    <td align="center">
+      <img src="docs/screenshots/algaechef.jpeg" width="250"><br>
+      <sub>AlgaeChef</sub>
+    </td>
+  </tr>
+</table>
+
 ## Funcionalidades
 
 - Registro e inicio de sesión mediante correo electrónico.
